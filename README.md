@@ -1,6 +1,6 @@
 JACE 照片合集（JACE's Photo Collection）
 
-欢迎来到 JACE 照片合集仓库！本仓库收录了一系列精心整理的 JACE 相关照片，旨在以开源形式记录和分享这些珍贵影像。所有内容均已获得 JACE 本人的明确授权，且严格遵循开源协议规范，确保每一位使用者都能在合法、合规的前提下获取和使用素材。
+欢迎来到 JACE 照片合集仓库！本仓库收录了一系列精心整理的 JACE 相关照片，旨在以开源形式记录和分享这些珍贵影像。严格遵循开源协议规范，确保每一位使用者都能在合法、合规的前提下获取和使用素材。
 
 仓库介绍
 
@@ -24,7 +24,7 @@ JACE 照片合集（JACE's Photo Collection）
 
 版权信息模板（使用时需包含）
 版权所有 © [拍摄者姓名/团队，如有请填写；无则填写“JACE 照片合集维护团队”]
-本内容基于 MIT 协议开源，详细条款见：[仓库地址，如 https://github.com/your-username/jace-photo-collection]
+本内容基于 MIT 协议开源，详细条款见：[https://github.com/Sasukasa/Jace-Pretty-Photos.git]
 使用前请确保遵守 MIT 协议及相关法律法规。
 使用建议与注意事项
 
